@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAC,GAAG;CACZ;;ACFD,AAAA,EAAE,CAAC;EACC,KAAK,EAAC,GAAG;CACZ",
+    "sources": [
+        "../scss/estilo.scss",
+        "../scss/_header.scss",
+        "../scss/_footer.scss",
+        "../scss/_medias.scss"
+    ],
+    "names": [],
+    "file": "estilo.css"
+}
